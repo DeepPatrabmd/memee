@@ -1,0 +1,114 @@
+.up{
+  background-color: #2f5d62;
+  height: 500px;
+}
+.yo
+{
+  font-size: 5rem;
+  text-align: center;
+  color: #9ede73;
+  margin-top: 100px;
+padding-left: 50px;
+padding-right: 50px;
+font-family: monospace;
+}
+.yo1
+{
+  font-size: 4rem;
+  text-align: center;
+  color: #c06014;
+  margin-top: 100px;
+  font-family: fantasy;
+}
+ @media (max-width:1000px) {
+   .up{
+     background-color: #2f5d62;
+     height: 800px;
+   }
+ }
+ /* This is part of middle element*/
+ .middle
+ {
+   background-color: #2f5d62;
+   height: 800px;
+ }
+ .butt{
+   text-align:center;
+}
+ .butti{
+width: 300px;
+height: 200px;
+ }
+ #he{
+   text-align: right;
+   margin-top: 100px;
+   margin-left: 150px;
+ }
+ #ba{
+   text-align: right;
+   margin-top: 100px;
+   margin-left: 150px;
+
+ }
+ .mi{
+   margin-top: 200px;
+ }
+ .bucom{
+   margin-top:50px;
+   border: 10px solid #404B69;
+   border-radius: 15px;
+   background-color: #404B69;
+ }
+@media (max-width:1000px) {
+  .middle
+  {
+    background-color: #2f5d62;
+    height: 1000px;
+  }
+  #he{
+    text-align: center;
+    margin-left: auto;
+  }
+  #ba{
+    text-align: center;
+    margin-left: auto;
+  }
+  .butti{
+ width: 170px;
+ height: 100px;
+
+  }
+  .bucom{
+    position: relative;
+  }
+  .paw{
+    right: 110px;
+  }
+  .car{
+bottom: 155px;
+right: -120px;
+  }
+  .beta{
+left: -110px;
+bottom: 170px;
+  }
+.heavy{
+left: 117px;
+bottom: 425px;
+  }
+  .bada{
+bottom: 500px
+  }
+}
+.bucom:hover{
+  background-color: gray;
+}
+.down{
+  background-color: #2f5d62;
+  height: 100px;
+}
+.er{
+  text-align: center;
+  color: orange;
+  font-size: 1.5rem;
+}
